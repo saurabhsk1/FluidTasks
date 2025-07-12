@@ -8,6 +8,6 @@ Database & Storage: Appwrite Database & Buckets
 State Management: React Query
 Drag & Drop: @hello-pangea/dnd
 UI Components: Radix UI, Lucide Icons
-Deployment: Vercel or Localhost
+Deployment: Localhost
 
 
